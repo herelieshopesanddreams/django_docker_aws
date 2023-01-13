@@ -1,0 +1,1 @@
+322471978873.dkr.ecr.us-west-2.amazonaws.com/django_docker_aws
